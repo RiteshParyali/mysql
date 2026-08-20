@@ -4,4 +4,4 @@
 
 # mysql
 
-db-migrate mysql driver
+db-migrate mysql driver for node js
